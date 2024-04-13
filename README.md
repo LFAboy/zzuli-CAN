@@ -72,4 +72,3 @@ Mac OS 系统由于 CNA(Captive Network Assistant).app 的存在，导致每次C
 * **[An undocumented change to Captive Network Assistant settings in OS X 10.10 Yosemite]([An undocumented change to Captive Network Assistant settings in OS X 10.10 Yosemite (grahamrpugh.com)](https://grahamrpugh.com/2014/10/29/undocumented-change-to-captive-network-assistant-settings-in-yosemite.html))**
 * **[How to automatically login to captive portals on OS X?](https://apple.stackexchange.com/questions/45418/how-to-automatically-login-to-captive-portals-on-os-x)**
 * **[What Is Apple Captive Network Assistant?]([What Is Apple Captive Network Assistant? (securew2.com)](https://www.securew2.com/blog/what-is-apple-captive-network-assistant))**
-* 
