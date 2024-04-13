@@ -65,10 +65,10 @@ Mac OS 系统由于 CNA(Captive Network Assistant).app 的存在，导致每次C
 
 ## <a id="more">More</a>
 
-* **[手把手教你用Python实现自动连接校园wifi，附代码！]([手把手教你用Python实现自动连接校园wifi，附代码！ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/530081384))**
-* **[自动登录校园网脚本(Python实现)]([自动登录校园网脚本(Python实现) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/370801224))**
-* **[校园网自动登录全平台解决方案]([校园网自动登录全平台解决方案 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/364016452))**
-* **[如何关闭Captive Network Assistant（CNA）自动弹出页面]([如何关闭Captive Network Ass… - Apple 社区](https://discussionschinese.apple.com/thread/44410?sortBy=best))**
-* **[An undocumented change to Captive Network Assistant settings in OS X 10.10 Yosemite]([An undocumented change to Captive Network Assistant settings in OS X 10.10 Yosemite (grahamrpugh.com)](https://grahamrpugh.com/2014/10/29/undocumented-change-to-captive-network-assistant-settings-in-yosemite.html))**
+* **[手把手教你用Python实现自动连接校园wifi，附代码！](https://zhuanlan.zhihu.com/p/530081384)**
+* **[自动登录校园网脚本(Python实现)](https://zhuanlan.zhihu.com/p/370801224)**
+* **[校园网自动登录全平台解决方案](https://zhuanlan.zhihu.com/p/364016452)**
+* **[如何关闭Captive Network Assistant（CNA）自动弹出页面](https://discussionschinese.apple.com/thread/44410?sortBy=best)**
+* **[An undocumented change to Captive Network Assistant settings in OS X 10.10 Yosemite](https://grahamrpugh.com/2014/10/29/undocumented-change-to-captive-network-assistant-settings-in-yosemite.html)**
 * **[How to automatically login to captive portals on OS X?](https://apple.stackexchange.com/questions/45418/how-to-automatically-login-to-captive-portals-on-os-x)**
-* **[What Is Apple Captive Network Assistant?]([What Is Apple Captive Network Assistant? (securew2.com)](https://www.securew2.com/blog/what-is-apple-captive-network-assistant))**
+* **[What Is Apple Captive Network Assistant?](https://www.securew2.com/blog/what-is-apple-captive-network-assistant)**
