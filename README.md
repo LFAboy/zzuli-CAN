@@ -7,7 +7,7 @@ Mac OS 系统由于 CNA(Captive Network Assistant).app 的存在，导致每次C
 
 ## Intro
 这个仓库是一个自动登录zzuli CAN 的脚本，节省了密码认证环节。
-只需要启动这个脚本就可以换成网络认证。
+只需要启动这个脚本就可以完成网络认证。
 
 ### Mac 连接公共网络的过程
 
@@ -72,3 +72,5 @@ Mac OS 系统由于 CNA(Captive Network Assistant).app 的存在，导致每次C
 * **[An undocumented change to Captive Network Assistant settings in OS X 10.10 Yosemite](https://grahamrpugh.com/2014/10/29/undocumented-change-to-captive-network-assistant-settings-in-yosemite.html)**
 * **[How to automatically login to captive portals on OS X?](https://apple.stackexchange.com/questions/45418/how-to-automatically-login-to-captive-portals-on-os-x)**
 * **[What Is Apple Captive Network Assistant?](https://www.securew2.com/blog/what-is-apple-captive-network-assistant)**
+* **[Python Code to Connect to WiFi Without Passwords](https://codepal.ai/code-generator/query/2TyG8NyN/python-code-to-connect-to-wifi-without-passwords)**
+* **[How to Connect, Disable, Enable, and Get SSID of Wi-Fi Using Python Script](https://studygyaan.com/python-programming/disabling-and-enabling-wi-fi-option-using-python)**
