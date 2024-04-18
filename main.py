@@ -7,7 +7,7 @@ import time
 import wifi
 # 寻找 zzuli-student 网络，并连接（相当于我们点击连接，接下来会跳转认证这一步）
 wifi.wifi_connect()
-time.sleep(1)
+time.sleep(1) # win 用户如果自动弹出了校园网认证窗口，把这个值调大些，这里是1秒，可以改成2或3秒试试，这个时候也会弹窗，但是后面代码执行后，校园网就已经可以用了，关闭标签即可（快捷键或手动关闭）。
 
 # 获取本机在局域网中的动态IP
 def get_ip():
@@ -34,7 +34,7 @@ post_data = {
   "OMKKey": "123456",
 }
 
-# 注意 header 字段中的数据，也替换成自己的 http post 请求的 header 字段
+# 注意 header 字段中的数据，也替换成自己的 http post 请求的 header 字段，其中 win 用户的 User-Agent 字段必须替换成自己的
 header = {
   "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
   "Accept-Encoding": "gzip, deflate",
