@@ -20,7 +20,7 @@ Mac OS 系统由于 CNA(Captive Network Assistant).app 的存在，导致每次C
 
 ###  Mac & Win
 
-1. 了解 Mac CNA.app 弹窗验证问题
+1. 了解 Mac CNA.app 弹窗验证问题(👉win 用户请跳过，直接从3开始)
 
    ```
    1. 连接公共网络后，CNA.app 会自动检测网络是否通畅，如果不通会自动弹出一个页面，让用户去登录。
@@ -29,7 +29,7 @@ Mac OS 系统由于 CNA(Captive Network Assistant).app 的存在，导致每次C
    4. 如果回应中的html文件中的title 标签内容是 Success （大小写敏感）那么就认为是通畅的，否则就不通畅。
    ```
 
-2. 解决 CNA.app 弹窗的原理 & 方案
+2. 解决 CNA.app 弹窗的原理 & 方案(👉win 用户请跳过，直接从3开始)
 
    本脚本采用的是改变 CNA.app 检测网络是否通畅的 http 请求 的 URL ，指向一个返回的 HTML 中 title 标签内容包含 Success 字符串(区分大小写)的地址即可。其他解决CNA.app 的方案请参考<a href="#more">Links</a> 或者网络。
 
