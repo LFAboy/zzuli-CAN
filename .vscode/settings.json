@@ -3,11 +3,13 @@
     "apng",
     "DGRAM",
     "KHTML",
+    "netsh",
     "networksetup",
     "nmcli",
     "setairportnetwork",
     "unicom",
     "upass",
+    "wlan",
     "zzuli"
   ]
 }
