@@ -127,7 +127,7 @@ Mac OS 系统由于 CNA(Captive Network Assistant).app 的存在，导致每次C
    
    # http post请求的 参数
    post_data = {
-     "DDDDD": ',0,54xxxxxxxx@unicom', # 校园网账号，前面的 0 表示设置类型， 54xxxxxxx是你的学号 @ 后面的是运营商，DDDDD这个参数可以在http请求报文中的 payload 中找到，替换成自己的即可
+     "DDDDD": ',0,54xxxxxxxx@unicom', # 校园网账号，前面的 0 表示设备类型（0代表桌面端）， 54xxxxxxx是你的学号 @ 后面的是运营商，DDDDD这个参数可以在http请求报文中的 payload 中找到，替换成自己的即可
      "upass": 'xxxxxx', # 校园网的登录密码
      "R1": "0",
      "R2": "0",
